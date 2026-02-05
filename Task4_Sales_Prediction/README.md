@@ -16,5 +16,5 @@
 #Output
   The module predicts sales values based on advertising expenditure and displays the evaluation metrics to measure accuracy.
 
-Conclusion
+#Conclusion
   This project demonstrates how machine learning can be applied to predict sales and assist business in optimizing their advertising strategies.
