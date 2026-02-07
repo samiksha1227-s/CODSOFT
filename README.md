@@ -1,7 +1,6 @@
 # CodSoft Data Science Internship Tasks
-
-This repository contains the tasks completed as a part of the CodSoft Data Science Internship.
-#Tasks Included
+  This repository contains the tasks completed as a part of the CodSoft Data Science Internship.
+# Tasks Included
   Task 1: Titanic Survival Prediction.
   Task 2: Movie Rating Prediction with Python.
   Task 3: Iris Flower Classification.
